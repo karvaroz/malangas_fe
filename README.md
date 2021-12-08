@@ -4,7 +4,7 @@
 
 ## Despliegue
 - Se deplegó en Heroku
-- [Ver](https://malangas.herokuapp.com/#/)
+- [Link despliegue en Heroku](https://malangas.herokuapp.com/#/)
 
 ## Backend 
 - Para ver el código y link de despliegue del backend visita:
@@ -12,6 +12,7 @@
 
 ## Demo
 
+![malangas](https://user-images.githubusercontent.com/72476418/145275722-e11aae2f-075e-4ec8-af43-bec95b2505b9.gif)
 
 
 ## Project setup
