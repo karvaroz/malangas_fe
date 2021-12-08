@@ -12,7 +12,7 @@
 ## Backend 
 - Para ver el código y link de despliegue del backend visita:
 - [Código](https://github.com/karvaroz/malangas).
-- - Backend y base de datos del proyecto terminado y desplegado.
+- Backend y base de datos del proyecto terminado y desplegado.
 - [Link despliegue en Heroku](https://malangas-be.herokuapp.com/)
 
 ## Demo
