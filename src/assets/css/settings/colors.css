@@ -1,0 +1,24 @@
+:root {
+    --gradient-primary: #5a4441;
+    --gradient-secondary: #5a4441;
+    --light-gradient: #5a4441;
+    --red-gradient: #5a4441;
+    --primary: #5a4441;
+    --light-primary: #5a4441;
+    --medium-primary: #5a4441;
+    --dark-primary: #5a4441;
+    --primary-opacity: #5a4441;
+    --ges-purple: #5a4441;
+    --ges-lighteen-purple: #5a4441;
+    --ges-light-purple: #5a4441;
+    --ges-medium-purple: #5a4441;
+    --ges-dark-purple: #18042f;
+    --ges-gray: #666666;
+    --ges-lighteen-gray: #F5F5F5;
+    --ges-light-gray: #b3b3b3;
+    --ges-dark-gray: #4d4d4d;
+    --ges-red: #d50000;
+    --ges-dark-red: #600;
+    --ges-red-opacity: #d600008f;
+    --ges-red-light-opacity: #d600002d;
+}
